@@ -1,3 +1,13 @@
+
+
+
+
+
+# ==================#
+# Jogo de adivinhar #
+#===================#
+
+
 from random import randint as ri
 
 
@@ -17,9 +27,17 @@ while True:
         print("\n Muito alto\n")
         advinhe = inp("Tente de novo!:  ")
         print("=================")
-        
+
     else:
         print("\n\n Você acertou!")
         print(("\n\n Até mais!\n\n"))
         break
+
+
+
+
+
+
+
+
 

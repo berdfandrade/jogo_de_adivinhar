@@ -8,3 +8,4 @@ A parte de "randomização" do jogo, foi feita com a biblioteca [random](https:/
 from random import randint as ri
 ```
 Após isso, eu usei o método [randit](https://www.w3schools.com/python/ref_random_randint.asp)
+

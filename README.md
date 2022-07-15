@@ -13,4 +13,5 @@ O número de 1 a 100, é a variável `n`.
 ```
 n = ri(1, 100)
 ```
-Agora, algum número aleatório de `1 a 100` está armazenado na memória do código. 
+Agora, algum número aleatório de `1 a 100` está armazenado na memória do código. E o que precisamos fazer agora é criar um `input`, para que o usuário p
+```

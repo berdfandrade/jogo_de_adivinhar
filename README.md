@@ -52,4 +52,4 @@ E por fim, temos o resto do `if statement`:
         break
 ``` 
 
-Quando o jogador acerta o número, usamos o `else` do `if statement` para verficar que o número colocado pelo usuário, não é maior, nem menor que o número gerado. Assim, terminamos printamos um `Você acertou!`, para mostrar que o jogador ganhou o jogo. Logo em seguida, saímos do loop com um `break` 
+Quando o jogador acerta o número, usamos o `else` do `if statement` para verficar que o número colocado pelo usuário, não é maior, nem menor que o número gerado. Assim, terminamos printamos um `Você acertou!`, para mostrar que o jogador ganhou o jogo. Logo em seguida, saímos do loop com um `break`.

@@ -7,5 +7,10 @@ A parte de "randomização" do jogo, foi feita com a biblioteca [random](https:/
 ```
 from random import randint as ri
 ```
-Após isso, eu usei o método [randit](https://www.w3schools.com/python/ref_random_randint.asp)
+Após isso, eu usei o método [randit](https://www.w3schools.com/python/ref_random_randint.asp) para gerar um número de 1 a 100.
 
+O número de 1 a 100, é a variável `n`.
+```
+n = ri(1, 100)
+```
+Agora, algum número aleatório de `1 a 100` está armazenado na memória do código. 
